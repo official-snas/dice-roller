@@ -55,6 +55,8 @@ while x == "y":
         print("[0 0 0]")
         print("[     ]")
         print("[0 0 0]")
+    elif c>6:
+     print("plz input a valid digit")
     else:
         print("congratulations you Lose")
     print("\n")
